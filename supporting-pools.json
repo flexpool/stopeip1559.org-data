@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Spark Pool",
+      "image": "https://static.stopeip1559.org/pools/sparkpool.png"
+    },
+    {
+      "name": "Ethermine",
+      "image": "https://static.stopeip1559.org/pools/ethermine.png"
+    },
+    {
+      "name": "F2Pool",
+      "image": "https://static.stopeip1559.org/pools/f2pool.png"
+    },
+    {
+      "name": "Nanopool",
+      "image": "https://static.stopeip1559.org/pools/nanopool.png"
+    },
+    {
+      "name": "Hiveon",
+      "image": "https://static.stopeip1559.org/pools/hiveon.png"
+    },
+    {
+      "name": "MiningPoolHub",
+      "image": "https://static.stopeip1559.org/pools/miningpoolhub.png"
+    },
+    {
+      "name": "Poolin",
+      "image": "https://static.stopeip1559.org/pools/poolin.png"
+    },
+    {
+      "name": "Ezil",
+      "image": "https://static.stopeip1559.org/pools/ezil.png"
+    },
+    {
+      "name": "Binance Pool",
+      "image": "https://static.stopeip1559.org/pools/binance.png"
+    },
+    {
+      "name": "Minerall",
+      "image": "https://static.stopeip1559.org/pools/minerall.png"
+    },
+    {
+      "name": "ViaBTC",
+      "image": "https://static.stopeip1559.org/pools/viabtc.png"
+    },
+    {
+      "name": "EMCD",
+      "image": "https://static.stopeip1559.org/pools/emcd.png"
+    },
+    {
+      "name": "BTC.com",
+      "image": "https://static.stopeip1559.org/pools/btccom.png"
+    },
+    {
+      "name": "Antpool",
+      "image": "https://static.stopeip1559.org/pools/antpool.png"
+    },
+    {
+      "name": "Cruxpool",
+      "image": "https://static.stopeip1559.org/pools/cruxpool.png"
+    }
+  ]

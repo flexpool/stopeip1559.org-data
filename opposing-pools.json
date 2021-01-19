@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Flexpool",
+      "image": "https://static.stopeip1559.org/pools/flexpool.png",
+      "link": "https://flexpool.io/",
+      "announcementURL":
+        "https://medium.com/flexpool/flexpool-announces-its-position-against-eip-1559-heres-why-c5275b7c4465"
+    },
+    {
+      "name": "2Miners",
+      "image": "https://static.stopeip1559.org/pools/2miners.png",
+      "link": "https://2miners.com",
+      "announcementURL":
+        "https://twitter.com/pool2miners/status/1351291378811207680"
+    },
+    {
+      "name": "Ethashpool",
+      "image": "https://static.stopeip1559.org/pools/ethashpool.png",
+      "link": "https://ethashpool.com",
+      "announcementURL":
+        "https://alchemybase.medium.com/ethashpool-is-against-eip-1559-we-need-your-help-4f7ebef50df4"
+    },
+    {
+      "name": "WoolyPooly",
+      "image": "https://static.stopeip1559.org/pools/woolypooly.png",
+      "link": "https://woolypooly.com",
+      "announcementURL":
+        "https://twitter.com/Woolypooly_com/status/1351448297530138624"
+    }
+  ]
