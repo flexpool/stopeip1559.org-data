@@ -13,6 +13,12 @@
         "link": "https://ethermine.org"
     },
     {
+        "name": "Hiveon",
+        "image": "https://static.stopeip1559.org/pools/hiveon.png",
+        "announcementURL": "https://twitter.com/hiveonofficial/status/1351629705611522050",
+        "link": "https://hiveon.net"
+    },
+    {
       "name": "2Miners",
       "image": "https://static.stopeip1559.org/pools/2miners.png",
       "link": "https://2miners.com",
