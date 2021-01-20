@@ -1,11 +1,12 @@
 [
     {
-      "name": "Spark Pool",
-      "image": "https://static.stopeip1559.org/pools/sparkpool.png"
+      "name": "F2Pool",
+      "image": "https://static.stopeip1559.org/pools/f2pool.png",
+      "announcementURL": "https://twitter.com/satofishi/status/1351915107421364238"
     },
     {
-      "name": "F2Pool",
-      "image": "https://static.stopeip1559.org/pools/f2pool.png"
+      "name": "Spark Pool",
+      "image": "https://static.stopeip1559.org/pools/sparkpool.png"
     },
     {
       "name": "Nanopool",
