@@ -46,9 +46,5 @@
     {
       "name": "Antpool",
       "image": "https://static.stopeip1559.org/pools/antpool.png"
-    },
-    {
-      "name": "Cruxpool",
-      "image": "https://static.stopeip1559.org/pools/cruxpool.png"
     }
   ]

@@ -40,10 +40,17 @@
         "https://twitter.com/Woolypooly_com/status/1351448297530138624"
     },
     {
+      "name": "Cruxpool",
+      "image": "https://static.stopeip1559.org/pools/cruxpool.png",
+      "link": "https://cruxpool.com",
+      "announcementURL":
+        "https://blog.cruxpool.com/2021/01/20/a-statement-on-eip-1559/"
+    },
+    {
       "name": "CrazyPool",
       "image": "",
       "link": "https://crazypool.org",
       "announcementURL":
-        "https://twitter.com/CRAZYPOOL4/status/1351630881308479489"
+        "https://twitter.com/CRAZYPOOL4/status/1351630881308479489" 
     }
   ]
