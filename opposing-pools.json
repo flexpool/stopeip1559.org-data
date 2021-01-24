@@ -13,6 +13,12 @@
         "link": "https://ethermine.org"
     },
     {
+      "name": "Nanopool",
+      "image": "https://static.stopeip1559.org/pools/nanopool.png",
+      "announcementURL": "https://twitter.com/nanopool_org/status/1353380587734708232",
+      "link": "https://nanopool.org"
+    },
+    {
         "name": "Hiveon",
         "image": "https://static.stopeip1559.org/pools/hiveon.png",
         "announcementURL": "https://twitter.com/hiveonofficial/status/1351629705611522050",
