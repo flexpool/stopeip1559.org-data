@@ -64,5 +64,12 @@
       "link": "https://crazypool.org",
       "announcementURL":
         "https://twitter.com/CRAZYPOOL4/status/1351630881308479489" 
+    },
+    {
+      "name": "SparkPool",
+      "image": "https://static.stopeip1559.org/pools/crazypool.png",
+      "link": "https://www.sparkpool.com/",
+      "announcementURL":
+        "https://twitter.com/sparkpool_eth/status/1357633927914024960" 
     }
   ]
