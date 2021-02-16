@@ -7,6 +7,13 @@
         "https://medium.com/flexpool/flexpool-announces-its-position-against-eip-1559-heres-why-c5275b7c4465"
     },
     {
+      "name": "Spark Pool",
+      "image": "https://static.stopeip1559.org/pools/sparkpool.png",
+      "link": "https://www.sparkpool.com/",
+      "announcementURL":
+        "https://twitter.com/sparkpool_eth/status/1357633927914024960" 
+    },
+    {
         "name": "Ethermine",
         "image": "https://static.stopeip1559.org/pools/ethermine.png",
         "announcementURL": "https://twitter.com/etherchain_org/status/1351610475281309697",
